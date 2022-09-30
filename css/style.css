@@ -15,7 +15,6 @@ body {
 *::after,
 *::before {
   box-sizing: border-box;
-  /* border: 1px solid red; */
 }
 
 h1,
@@ -90,7 +89,6 @@ hr {
 
 .nav__link:hover {
   color: rgb(229, 201, 165);
-  /* font-size: 22px; */
 }
 
 .nav__list {
